@@ -1,5 +1,5 @@
 # What-to-do-next
-URL：https://github.com/JUNoym/What-to-do-next
+URL：https://what-to-do-next.vercel.app/
 
 # 使い方
 ① 自分のやるべきことを追加していきます  
